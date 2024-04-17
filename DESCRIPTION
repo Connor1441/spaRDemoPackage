@@ -1,0 +1,17 @@
+Package: spaRDemoPackage
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: c(
+    person("Hadley", "Wickham", email = "hadley@posit.co", role = "cre"),
+    person("Jennifer", "Bryan", email = "jenny@posit.co", role = "aut"),
+    person("Posit Software, PBC", role = c("cph", "fnd")))
+Description: this package will create a custom ggplot
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    ggplot2
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.2.3
